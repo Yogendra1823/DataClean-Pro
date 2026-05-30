@@ -1,0 +1,31 @@
+Order Id,Customer Name,City,Category,Sales Amount,Quantity,Order Date,Month,Quarter,Day Of Week,Sales Amount Is Outlier
+1001,John Smith,New York,Electronics,1200.5,2.0,2024-01-15,January,Q1,Monday,False
+1002,Jane Doe,Los Angeles,Clothing,450.0,3.0,2024-01-15,January,Q1,Monday,False
+1003,Bob Johnson,Chicago,Electronics,305.0,1.0,2024-01-20,January,Q1,Saturday,False
+1004,John Smith,New York,Electronics,1200.5,2.0,2024-01-15,January,Q1,Monday,False
+1005,Alice Brown,Houston,Food & Beverages,89.99,5.0,2024-01-22,January,Q1,Monday,False
+1006,Charlie Wilson,Miami,Electronics,15000.0,1.0,2024-01-23,January,Q1,Tuesday,True
+1007,Unknown,Dallas,Clothing,320.0,2.0,2024-01-24,January,Q1,Wednesday,False
+1008,Eva Martinez,Phoenix,Food & Beverages,45.5,2.0,2024-01-25,January,Q1,Thursday,False
+1009,Frank Lee,San Antonio,Electronics,780.0,3.0,2024-01-25,January,Q1,Thursday,False
+1010,Grace Kim,San Diego,Clothing,210.0,1.0,2024-01-27,January,Q1,Saturday,False
+1011,Henry Chen,Dallas,Electronics,950.0,2.0,2024-01-28,January,Q1,Sunday,False
+1012,Isabel Santos,San Jose,Food & Beverages,305.0,4.0,2024-01-29,January,Q1,Monday,False
+1013,Grace Kim,San Diego,Clothing,210.0,1.0,2024-01-27,January,Q1,Saturday,False
+1014,Jack Brown,Austin,Electronics,3400.0,1.0,2024-01-30,January,Q1,Tuesday,True
+1015,Karen White,Jacksonville,Clothing,175.0,3.0,2024-01-31,January,Q1,Wednesday,False
+1016,Liam Davis,Fort Worth,Food & Beverages,62.0,2.0,2024-02-01,February,Q1,Thursday,False
+1017,Mia Garcia,Columbus,Electronics,305.0,1.0,2024-02-02,February,Q1,Friday,False
+1018,Noah Martinez,Charlotte,Clothing,290.0,2.0,2024-02-03,February,Q1,Saturday,False
+1019,Olivia Brown,Indianapolis,Food & Beverages,78.5,6.0,2024-02-04,February,Q1,Sunday,False
+1020,Peter Johnson,San Francisco,Electronics,2100.0,1.0,2024-02-05,February,Q1,Monday,False
+1021,Quinn Lee,Seattle,Clothing,380.0,2.0,2024-02-07,February,Q1,Wednesday,False
+1022,Rachel Kim,Denver,Food & Beverages,95.0,3.0,2024-02-08,February,Q1,Thursday,False
+1023,Sam Wilson,Boston,Electronics,1450.0,2.0,2024-02-09,February,Q1,Friday,False
+1024,Tina Chen,Las Vegas,Clothing,220.0,1.0,2024-02-10,February,Q1,Saturday,False
+1025,Uma Davis,Portland,Food & Beverages,55.0,4.0,2024-02-11,February,Q1,Sunday,False
+1026,Victor Lee,Seattle,Electronics,870.0,2.0,2024-02-12,February,Q1,Monday,False
+1027,Unknown,Miami,Clothing,130.0,1.0,2024-02-13,February,Q1,Tuesday,False
+1028,Wendy Scott,Denver,Food & Beverages,48.0,3.0,2024-02-14,February,Q1,Wednesday,False
+1029,Xander Brown,Boston,Electronics,1900.0,2.0,2024-02-15,February,Q1,Thursday,False
+1030,Yara Wilson,Portland,Clothing,305.0,1.0,2024-02-16,February,Q1,Friday,False
